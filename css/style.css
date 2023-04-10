@@ -1,0 +1,16 @@
+html {
+background-color: rgb(50, 50, 50);
+color: rgb(50, 50, 50);
+}
+h1 {
+    text-decoration-color:blue ;
+color:blue;
+}
+p {
+    text-decoration-color: azure;
+    color: azure;
+}
+h2 {
+    text-decoration-color: azure;
+    color: azure;
+}
